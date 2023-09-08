@@ -11,7 +11,7 @@ as well as mark them as completed. This README provides instructions on setting 
 - Follow the naming conventions exactly as instructed.
 
 ### Models
-- User Model
+- ToDo Model
 ```yaml
  {
         task: {type: String, required: true},
